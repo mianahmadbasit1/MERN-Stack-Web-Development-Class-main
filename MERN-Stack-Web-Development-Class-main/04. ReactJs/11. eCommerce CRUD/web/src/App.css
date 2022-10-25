@@ -1,0 +1,16 @@
+.loading {
+    height: 100vh;
+    background-color: #150F11;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading>div  {
+    color: white;
+}
+.loading>img {
+    width: 100%;
+
+}

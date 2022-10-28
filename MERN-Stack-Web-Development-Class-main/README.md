@@ -1,7 +1,7 @@
 # MERN-Stack-Web-Development-Class
 Online Web Development course designed for Absolute beginners 
 
-Admission form: www.tepsmentor.com <br>
+Admission form: TEPS PVT LTD <br>
  <br>
 8pm to 10pm - TTS days <br>
 <br>
